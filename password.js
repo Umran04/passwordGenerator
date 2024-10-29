@@ -20,7 +20,7 @@ function randomNumber(){
     return characters[index]
     
 }
-
+//just a random edit
 
 
 function passwordGenerator(){
